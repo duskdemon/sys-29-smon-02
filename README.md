@@ -38,7 +38,7 @@
 ---
 
 В облаке Яндекса были созданы 2 ВМ на базе Debian 11:
-![созданные ВМ](https://github.com/duskdemon/sys-29-smon-02/blob/main/img/hw-01-vmyc-vmcf.png)
+![созданные ВМ](https://github.com/duskdemon/sys-29-smon-02/blob/main/img/hw-02-vmyc-vmcf.png)
 
 ---
 
